@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Card-Master/static/css/main.1a5150fb.chunk.css",
+    "main.js": "/Card-Master/static/js/main.3a9d921e.chunk.js",
+    "main.js.map": "/Card-Master/static/js/main.3a9d921e.chunk.js.map",
+    "runtime-main.js": "/Card-Master/static/js/runtime-main.7107ce53.js",
+    "runtime-main.js.map": "/Card-Master/static/js/runtime-main.7107ce53.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Card-Master/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.fa394f24.chunk.js": "/Card-Master/static/js/2.fa394f24.chunk.js",
+    "static/js/2.fa394f24.chunk.js.map": "/Card-Master/static/js/2.fa394f24.chunk.js.map",
+    "index.html": "/Card-Master/index.html",
+    "precache-manifest.bff07d4961f103787655d002f665a48e.js": "/Card-Master/precache-manifest.bff07d4961f103787655d002f665a48e.js",
+    "service-worker.js": "/Card-Master/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Card-Master/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.1a5150fb.chunk.css.map": "/Card-Master/static/css/main.1a5150fb.chunk.css.map",
+    "static/js/2.fa394f24.chunk.js.LICENSE.txt": "/Card-Master/static/js/2.fa394f24.chunk.js.LICENSE.txt",
+    "static/media/cart.fb08f8fe.svg": "/Card-Master/static/media/cart.fb08f8fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7107ce53.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.fa394f24.chunk.js",
+    "static/css/main.1a5150fb.chunk.css",
+    "static/js/main.3a9d921e.chunk.js"
+  ]
+}
